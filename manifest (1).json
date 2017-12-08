@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+
+  "name": "Peepee man says: Ur gay lol",
+  "description": "This extension should just be a button",
+  "version": "1.0",
+
+  "browser_action": {
+    "default_icon": "box.jpg",
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "activeTab",
+    "storage"
+  ]
+}
